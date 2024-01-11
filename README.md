@@ -2,6 +2,8 @@
 
 This repository contains Python code showcasing the utilization of Meta's Llama-2-7b, a state-of-the-art large language model, for text generation and inference. The provided code leverages the Hugging Face Transformers library to interact with the Llama-2-7b model.
 
+**For a comprehensive guide and detailed implementation, refer to this [blog](https://medium.com/@kashyaprparmar/test-llms-with-zero-cost-high-performance-a-complete-guide-da2143b10356).**
+
 ## Overview
 
 The code demonstrates the following key functionalities:
