@@ -44,8 +44,5 @@ The code demonstrates the following key functionalities:
 
 Feel free to customize the input prompt or explore additional use cases by modifying the code as needed.
 
-**Note:** Ensure you comply with the licensing terms and usage policies of Meta's Llama-2-7b and Hugging Face.
-
-For further inquiries, contact me
 
 ---
