@@ -46,6 +46,6 @@ Feel free to customize the input prompt or explore additional use cases by modif
 
 **Note:** Ensure you comply with the licensing terms and usage policies of Meta's Llama-2-7b and Hugging Face.
 
-For further inquiries, contact the author: [Your Name]
+For further inquiries, contact me
 
 ---
